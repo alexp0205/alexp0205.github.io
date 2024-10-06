@@ -21,14 +21,14 @@
 title: Alex Poovathingal
 email: my_first_name + “p0205@” + standard_gmail_domain
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal website
+  Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.poovathingal.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alexp0205
 github_username:  alexp0205
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
